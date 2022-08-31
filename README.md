@@ -7,6 +7,7 @@ i currently work on building a credit markets for decentralized finance at truef
 - get in touch with me at https://twitter.com/wtylerwallace
 - check out some of my work at https://dune.com/tt_tyler/ and https://forum.truefi.io/u/tylerw/
 
+more soon™
 
 <!---
 0xsmoochie/0xsmoochie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
