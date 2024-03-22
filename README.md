@@ -1,12 +1,5 @@
 👋 hi, i’m tyler 
 
-i currently work on building a credit markets for decentralized finance at truefi (https://app.truefi.io/)
-
-- my superpower(s): telling stories with data, making things work, teaching
-- what i do: product mgmt + finance + growth
-- get in touch with me at https://twitter.com/wtylerwallace
-- check out some of my work at https://dune.com/tt_tyler/ and https://forum.truefi.io/u/tylerw/
-
 more soon™
 
 <!---
